@@ -1,8 +1,6 @@
 # google_maps_in_flutter
 
-A new Flutter project.
-
-[Official Document](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter#4)
+[참고 Official Document](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter#4)
 
 ## Getting Started
 
